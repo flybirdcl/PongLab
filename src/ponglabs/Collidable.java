@@ -9,4 +9,4 @@ public interface Collidable {
     boolean didCollideRight(Object obj);
     boolean didCollideTop(Object obj);
     boolean didCollideBottom(Object obj);
-}
+} 
