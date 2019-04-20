@@ -1,4 +1,4 @@
-package Pong;
+package ponglabs;
 
 //(c) A+ Computer Science
 //www.apluscompsci.com
